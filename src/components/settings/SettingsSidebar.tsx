@@ -43,7 +43,7 @@ export default () => {
             Dukungan
           </a>
           <span class="px-1"> · </span>
-          <a href="wa.me/6285174195455" target="_blank" rel="noreferrer" class="hv-foreground">
+          <a href="https://wa.me/6285174195455" target="_blank" rel="noreferrer" class="hv-foreground">
             Hubungi Saya
           </a>
         </div>
