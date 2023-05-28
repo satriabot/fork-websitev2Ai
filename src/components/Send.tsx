@@ -119,7 +119,7 @@ export default () => {
         class="border border-base-100 px-2 py-1 rounded-md text-sm op-40 hv-base hover:bg-white"
         onClick={() => { handleAbortFetch() }}
       >
-        Abort
+        Stop
       </div>
     </div>
   )
