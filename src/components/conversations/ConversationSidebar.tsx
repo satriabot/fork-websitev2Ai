@@ -19,7 +19,7 @@ export default () => {
             onClick={() => {}}
             size="sm"
           /> */}
-          <ConversationSidebarAdd />
+          <SatriaAISidebarAdd />
         </div>
       </header>
       <div class="flex-1 overflow-auto">
