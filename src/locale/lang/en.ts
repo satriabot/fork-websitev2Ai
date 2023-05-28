@@ -19,7 +19,7 @@ export const en = {
       replicate: {},
     },
     conversations: {
-      title: 'Conversations',
+      title: 'SatriaAI',
       add: 'New',
       recent: 'Recents',
       noRecent: 'No recents',
