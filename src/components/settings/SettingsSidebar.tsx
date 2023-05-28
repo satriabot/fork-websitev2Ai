@@ -39,12 +39,12 @@ export default () => {
       <footer class="h-14 fi justify-between px-3">
         <ThemeToggle />
         <div text-xs op-40 px-2>
-          <a href="https://docs.anse.app" target="_blank" rel="noreferrer" class="hv-foreground">
-            Docs
+          <a href="https://telegra.ph/file/ab5ac63f0f5f673937869.jpg" target="_blank" rel="noreferrer" class="hv-foreground">
+            Dukungan
           </a>
           <span class="px-1"> · </span>
-          <a href="https://github.com/anse-app/anse" target="_blank" rel="noreferrer" class="hv-foreground">
-            Github
+          <a href="wa.me/6285174195455" target="_blank" rel="noreferrer" class="hv-foreground">
+            Hubungi Saya
           </a>
         </div>
       </footer>
