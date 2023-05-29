@@ -8,7 +8,7 @@ const providerReplicate = () => {
     name: 'Replicate',
     globalSettings: [
       {
-        key: 'r8_I90bxKGZd7EKpjW9d8S6R6TnoPaLGVe1gMV93',
+        key: 'token',
         name: 'Replicate API token',
         type: 'api-key',
       },
